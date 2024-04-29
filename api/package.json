@@ -1,0 +1,9 @@
+{
+    "name": "your-api",
+    "version": "1.0.0",
+    "description": "Your API description",
+    "main": "api.js",
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
